@@ -15,5 +15,5 @@ Additionally, this tutorial guides a reader through a simple example of running 
      *** NOTE: This Tutorial is provided for convenience     ***
      *** and is not directly supported by Mesosphere, Inc.   ***
 
-# COMMING SOON 
+# COMING SOON 
 
